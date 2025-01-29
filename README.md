@@ -49,3 +49,9 @@ This is a simple todo application built with the following tech stack:
 4. **Run the development server**
    ```bash
    npm run dev
+**Video Demo:**
+
+
+https://github.com/user-attachments/assets/7b898d77-edb5-40c1-834c-9ca0feff0589
+
+
